@@ -1,0 +1,10 @@
+{
+  "name": "jacobs-ladder",
+  "description": "Pub/sub communication bridge between Claude Code instances running on the same machine",
+  "version": "0.1.0",
+  "author": {
+    "name": "WaniAthar"
+  },
+  "license": "MIT",
+  "keywords": ["jacobs-ladder", "pub-sub", "communication", "multi-instance"]
+}

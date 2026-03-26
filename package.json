@@ -1,0 +1,6 @@
+{
+  "name": "jacobs-ladder",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "plugin.js"
+}

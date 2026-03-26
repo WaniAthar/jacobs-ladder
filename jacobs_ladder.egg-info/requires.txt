@@ -1,0 +1,6 @@
+click>=8.0
+psutil>=5.9
+
+[dev]
+pytest>=7.0
+pytest-tmp-files>=0.0.2

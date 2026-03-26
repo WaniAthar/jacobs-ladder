@@ -1,0 +1,2 @@
+[console_scripts]
+jacobs-ladder = jacobs_ladder.cli:cli

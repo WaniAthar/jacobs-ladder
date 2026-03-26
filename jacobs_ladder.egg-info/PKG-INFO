@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: jacobs-ladder
+Version: 0.1.0
+Summary: Inter-Claude-Code instance communication via local pub/sub buffers
+Requires-Python: >=3.9
+Requires-Dist: click>=8.0
+Requires-Dist: psutil>=5.9
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-tmp-files>=0.0.2; extra == "dev"
